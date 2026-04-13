@@ -1,5 +1,7 @@
 # Path_planning_RoboticaIndustriale
 
+![Ambiente](images/ambiente.png)
+
 ## Descrizione
 Questo progetto implementa un sistema di pianificazione del percorso per un robot mobile in un ambiente bidimensionale definito da poligoni.
 
